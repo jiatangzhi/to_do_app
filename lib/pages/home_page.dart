@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../utilities/todo_tile.dart';
 
-class Homepage extends StatefulWidget {
+class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
   @override
